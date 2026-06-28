@@ -1,0 +1,9 @@
+{
+  "appId": "com.ishika.edupredict",
+  "appName": "EduPredictAi",
+  "webDir": "dist",
+  "server": {
+    "url": "https://student-behaviour-xai-model.vercel.app/",
+    "cleartext": false
+  }
+}
